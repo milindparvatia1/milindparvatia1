@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Milind Parvatia
 - 👀 I’m interested in Food, Hiking, Potography.
 - 🌱 I’m currently learning Data Bricks
-- 💞️ I’m looking to collaborate on alot of work
+- 💞️ I’m looking to collaborate on Databricks, python projects
 - 📫 How to reach me ~~
 
 <!---
